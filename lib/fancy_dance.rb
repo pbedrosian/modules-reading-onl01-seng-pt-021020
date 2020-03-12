@@ -25,4 +25,3 @@ module FancyDance
     end
   end
 end
-© 2020 G
